@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Miracle 👋
 
-<!--
-**MiracleOsheku/MiracleOsheku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer and founder of **Build Zone X**, based in Port Harcourt, Nigeria.
+I build fast, premium websites for businesses.
 
-Here are some ideas to get you started:
+## What I'm working with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Next.js · React · Tailwind CSS
+- Node.js · PostgreSQL
+- Figma for design
+
+## What I'm working on now
+
+- Building and deploying client websites for small businesses
+- Growing my full-stack skills with every project I ship
+
+## Work with me
+
+I take on website and landing page projects for local and international clients.
+
+- 🌐 Build Zone X: (add your site link when it's live)
+- 💼 LinkedIn: (add your link)
+- 📧 Email: oshekumiracle@gmail.com
